@@ -1,0 +1,10 @@
+*.DS_Store
+*.idea
+node_modules/
+env/
+JetBrains*
+package-lock.json
+dist/
+Jenkinsfile
+.nyc_output
+coverage
